@@ -1,0 +1,14 @@
+.content {
+  margin-top: 200px;
+}
+.content h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.homeContent {
+  padding: 5%;
+}
+.homeContent h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
